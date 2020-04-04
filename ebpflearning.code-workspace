@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "helloworld"
+		},
+		{
+			"path": "mapsdemo"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bpf.h": "c",
+			"stdio.h": "c",
+			"bpf_load.h": "c",
+			"libbpf.h": "c",
+			"perf-sys.h": "c",
+			"bpf_helpers.h": "c",
+			"errno.h": "c"
+		}
+	}
+}

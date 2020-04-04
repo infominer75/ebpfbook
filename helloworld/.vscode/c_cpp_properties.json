@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "${workspaceRoot}/include",
+                "/usr/src/linux-source-4.15.0/linux-source-4.15.0/tools/testing/selftests/bpf/",
+                "/usr/src/linux-source-4.15.0/linux-source-4.15.0/samples/bpf/",
+                "/usr/src/linux-source-4.15.0/linux-source-4.15.0/tools/lib/",
+                "/usr/src/linux-source-4.15.0/linux-source-4.15.0/tools/perf/",
+                "/usr/src/linux-source-4.15.0/linux-source-4.15.0/tools/include/",
+                "/usr/include/x86_64-linux-gnu",
+                "/software/bpf/prototype-kernel/kernel/samples/bpf/",
+                "/usr/src/linux-source-4.15.0/linux-source-4.15.0/"
+            ]
+        }
+    ],
+    "version": 4
+}
